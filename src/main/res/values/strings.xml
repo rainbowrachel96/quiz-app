@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz Me!</string>
+
+    <string name="cheat_button">Cheat!</string>
+    <string name="skip_button">Skip</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    //should change these questions to new/more interesting ones. i dont care about what. but be funny and brilliant. or pick stuff up from traveling. idc
+    <string name="question1">question 1</string>
+    <string name="question2">question 2</string>
+    <string name="question3">question 3</string>
+    <string name="question4">question 4</string>
+    <string name="question5">question 5</string>
+    <string name="question6">question 6</string>
+    <string name="question7">question 7</string>
+    <string name="question8">question 8</string>
+    <string name="question9">question 9</string>
+    <string name="question10">question 10</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="start_quiz">Start Quiz!</string>
+</resources>
